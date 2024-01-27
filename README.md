@@ -2,7 +2,7 @@
 ### 🏴‍☠️ HACKS 
 
 <br/>
-![](https://i.postimg.cc/6qNDsjYZ/Captura-de-pantalla-248.png)](https://postimg.cc/G8qMGQ03)
+![](https://i.postimg.cc/6qNDsjYZ/Captura-de-pantalla-248.png)
 
 📚 tutoriales de python [tutorial 1](https://docs.python.org/es/3/tutorial/) | [tutorial 2](https://www.w3schools.com/python/)
 ---
